@@ -2,5 +2,3 @@ streamlit==1.44.1
 pandas==2.2.2
 scikit-learn==1.6.1
 numpy==2.0.2
-python_requires='>=3.11'
-
